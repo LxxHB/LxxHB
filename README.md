@@ -5,6 +5,5 @@
 [![Generic badge](https://img.shields.io/badge/Educational_Purposes-Only-grey.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Educational_Purposes-Only-grey.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Educational_Purposes-Only-grey.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Educational_Purposes-Only-grey.svg)](https://shields.io/)
 
-**Yo**
+**Yol**

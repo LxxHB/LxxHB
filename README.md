@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @LxxHB!
-- 👀 I’m interested in JavaScript, Python and Lua.
-- 🌱 I’m currently learning C++.
-- 📫 You can contact me trought discord! Lx#0542
+![](https://user-images.githubusercontent.com/109883014/201206759-b80275e9-c8ca-4e38-aa31-a719d179e409.png)
 
-<!---
-LxxHB/LxxHB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

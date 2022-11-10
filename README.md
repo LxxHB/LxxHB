@@ -10,4 +10,7 @@
 [![Generic badge](https://img.shields.io/badge/Customers-499-purple.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Discord_Customers-345-purple.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Telegram_Customers-154-purple.svg)](https://shields.io/)
-**Yol**
+
+**• How to find me?**
+
+You can contact me via discord, email..

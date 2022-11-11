@@ -5,6 +5,7 @@
 [![Generic badge](https://img.shields.io/badge/Educational_Purposes-Only-grey.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Educational_Purposes-Only-grey.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Educational_Purposes-Only-grey.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Members-5.3k-purple.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Discord_Members-2.8k-purple.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Telegram_Members-2.5k-purple.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Customers-499-purple.svg)](https://shields.io/)

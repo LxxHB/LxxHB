@@ -10,7 +10,16 @@
 [![Generic badge](https://img.shields.io/badge/Customers-499-purple.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Discord_Customers-345-purple.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Telegram_Customers-154-purple.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Python--black.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/JavaScript--black.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/TypeScript--black.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Luau--black.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Discord.py--black.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Tools_Designer--purple.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Graphic_Designer--purple.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Bots_Designer--purple.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Selfbots_Designer--purple.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Website_Designer--purple.svg)](https://shields.io/)
 
 **• How to find me?**
-
 You can contact me via discord, email..

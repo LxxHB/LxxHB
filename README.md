@@ -1,4 +1,5 @@
-![](https://user-images.githubusercontent.com/109883014/201206759-b80275e9-c8ca-4e38-aa31-a719d179e409.png)
+![](https://user-images.githubusercontent.com/109883014/235322816-e01e8d19-6d01-4dd2-a963-05f9229dd5b5.png)
+
 
 ## About me
 

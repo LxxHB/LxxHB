@@ -1,4 +1,4 @@
-![]([https://user-images.githubusercontent.com/109883014/235322816-e01e8d19-6d01-4dd2-a963-05f9229dd5b5.png])
+![]([[https://user-images.githubusercontent.com/109883014/235322816-e01e8d19-6d01-4dd2-a963-05f9229dd5b5.png]](https://media.discordapp.net/attachments/874652532255907941/1137135243191668776/Banner_Electronica_y_Tecnologia_Exhibicion_Moderno_Retractable_Azul_y_Rosa_1.png?width=1440&height=360))
 
 
 ## About me

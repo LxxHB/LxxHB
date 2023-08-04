@@ -18,4 +18,4 @@ different Projects through out the Years(2020-2023).
   - Staff Service          -> Bug Hunting
   - Cyber Security         -> Vulnerability Analysis, Endpoint Protection, Network Security
 ```
-![](file:///C:/Users/Lx/Downloads/standard.gif)
+![](https://media.discordapp.net/attachments/1137139055906279435/1137152462340509726/standard.gif?width=765&height=270)

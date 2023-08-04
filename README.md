@@ -19,6 +19,4 @@ different Projects through out the Years(2020-2023).
   - Cyber Security         -> Vulnerability Analysis, Endpoint Protection, Network Security
 ```
 
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/1137139055906279435/1137152462340509726/standard.gif"/>
-</div>
+<img src="https://cdn.discordapp.com/attachments/1137139055906279435/1137152462340509726/standard.gif)" width="900" height="300">

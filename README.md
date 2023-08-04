@@ -20,5 +20,5 @@ different Projects through out the Years(2020-2023).
 ```
 
 <div align="center">
-https://cdn.discordapp.com/attachments/1137139055906279435/1137152462340509726/standard.gif
+<img src="https://cdn.discordapp.com/attachments/1137139055906279435/1137152462340509726/standard.gif"/>
 </div>

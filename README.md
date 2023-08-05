@@ -19,4 +19,6 @@ different Projects through out the Years(2020-2023).
   - Cyber Security         -> Vulnerability Analysis, Endpoint Protection, Network Security
 ```
 
-![standard](https://github.com/LxxHB/LxxHB/assets/109883014/df5f1502-31e1-4cfd-8667-0f58057f1518)
+<p align="center">
+  <img src="standard.gif" alt="animated" />
+</p>

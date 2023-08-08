@@ -39,3 +39,7 @@ different Projects through out the Years(2020-2023).
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=DF39BC&width=435&lines=LANGUAGES)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,js,lua,nodejs,react,ruby,solidjs&perline=5)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://github.com/LxxHB/LxxHB/assets/109883014/da554506-2c71-4715-868b-3f5918469b86" alt="animated" />
+</p>
